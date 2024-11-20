@@ -1,0 +1,34 @@
+/* :root,
+:host {
+  --vs-border-color: #fbf9fc;
+  --vs-dropdown-min-width: 106px;
+  --vs-border-width: 0.5px;
+} */
+/* .style-chooser .vs__dropdown-toggle {
+  border: none;
+}
+.vs__dropdown-menu {
+  width: 106px;
+} */
+
+/* .vs__dropdown-menu::-webkit-scrollbar {
+  width: 4px;
+}
+.vs__dropdown-menu::-webkit-scrollbar-thumb {
+  background: rgb(128, 178, 20, 0.6);
+  border-radius: 4px;
+} */
+
+/* .vs__dropdown-menu {
+  width: 106px;
+} */
+
+/* .style-chooser .vs__search::placeholder,
+.style-chooser .vs__dropdown-toggle,
+.style-chooser .vs__dropdown-menu {
+  background: transparent;
+  border: none;
+  color: #206A5D;
+  text-transform: lowercase;
+  font-variant: small-caps;
+} */
