@@ -20,6 +20,9 @@ import {
   faClock,
   faLocationDot,
   faMagnifyingGlass,
+  faNewspaper,
+  faCalendarDays,
+  faMap,
 } from '@fortawesome/free-solid-svg-icons'
 // Add the icons to the library
 library.add(
@@ -32,6 +35,9 @@ library.add(
   faLocationDot,
   faClock,
   faMagnifyingGlass,
+  faNewspaper,
+  faCalendarDays,
+  faMap,
 )
 
 import './assets/main.css'
